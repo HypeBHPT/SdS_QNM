@@ -33,5 +33,5 @@ If you use this code in your research, please cite:
 }
 ```
 
-## Citation
+## License
 ![License](https://img.shields.io/badge/license-BSD%203--Clause-blue.svg)
