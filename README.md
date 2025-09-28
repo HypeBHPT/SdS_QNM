@@ -20,9 +20,9 @@ calculates SdS in the Extremal limiting Scenario (Nariai spacetime)
 If you use this code in your research, please cite:
 > Yi Zhou, Rodrigo Panosso Macedo, *Limiting Geometry and Spectral Instability in Schwarzschild--de Sitter Spacetimes*, 2025.  
 > [ArXiv:gr-qc 2507.05370](https://arxiv.org/abs/2507.05370)
->
-> ```bibtex
-> @article{Zhou:2025xta,
+
+```bibtex
+@article{Zhou:2025xta,
     author = "Zhou, Yi and Panosso Macedo, Rodrigo",
     title = "{Limiting Geometry and Spectral Instability in Schwarzschild--de Sitter Spacetimes}",
     eprint = "2507.05370",
