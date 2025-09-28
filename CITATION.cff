@@ -1,0 +1,15 @@
+```yaml
+# CITATION.cff
+cff-version: 1.2.0
+title: "Limiting Geometry and Spectral Instability in Schwarzschild--de Sitter Spacetimes"
+authors:
+  - family-names: Zhou
+    given-names: Yi
+  - family-names: Panosso Macedo
+    given-names: Rodrigo
+doi: 10.48550/arXiv.2507.05370
+version: 1.0.0
+date-released: 2025-09-28
+url: "https://arxiv.org/abs/2507.05370"
+license: "BSD-3-Clause"
+message: "If you use this software, please cite it as below."
